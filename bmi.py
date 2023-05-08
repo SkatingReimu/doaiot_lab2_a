@@ -6,6 +6,3 @@ def calc_bmi(h,w):
         return 0
     else:
         return 1
-
-
-calc_bmi(h=1.73, w=57)
